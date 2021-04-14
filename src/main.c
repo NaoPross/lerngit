@@ -4,6 +4,7 @@
 
 int main() {
 	int a;
+	float b;
 	return 0;
 }
 
